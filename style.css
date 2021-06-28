@@ -1,0 +1,80 @@
+.list {
+	color: blue;
+	font-size: 16px;
+	margin-right: 52px;
+	display:inline-block;
+	font-family: 'Jomhuria', cursive;
+
+}
+.header {
+	
+}
+.ul {
+	display:inline-block;
+
+}
+.logo{
+	display:inline-block;
+	margin-right: 400px;
+	margin-left: 132px;
+}
+.txt {
+	font-family: 'Lato', sans-serif;
+	font-size: 78px;
+	margin-top: 391px;
+	width: 600px;
+	height: 203px;
+	margin-left: 132px;
+}
+.gio {
+	height: 200px;
+	margin-top: 373px;
+	margin-left: 270px;
+}
+.content {
+	display: flex;
+}
+.txt2 {
+	margin-left: 132px;
+	margin-bottom: 86px;
+}
+.block {
+	height: 50px;
+	margin-left: 135px;
+	position: absolute;
+	z-index: -1;
+}
+.wave {
+	position: relative;
+	margin-left: 5px;
+	left: 150px;
+	top: 10px;
+
+}
+.waveme {
+	position: relative;
+	right:-203px;
+	bottom: 14px;
+
+}
+.our {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color:darkblue; 
+}
+.titlle {
+  font-size: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Lato', sans-serif
+}
+.txt3 {
+	width:700px;
+	height:80px;
+	margin-left: 350px;
+	margin-top: 5px;
+	color: #747474;
+
+}
